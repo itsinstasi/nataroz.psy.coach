@@ -1,5 +1,5 @@
 ﻿User-agent: *
-Sitemap: https://nataroz-psy-coach.itsinsta.site/sitemap.xml
+Sitemap: http://kod-podsoznaniya.com/sitemap.xml
 Disallow: /main.html
 Disallow: /main
 Disallow: /stories.html
