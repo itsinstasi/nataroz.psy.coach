@@ -1,5 +1,5 @@
 ﻿User-agent: *
-Sitemap: http://kod-podsoznaniya.com/sitemap.xml
+Sitemap: https://kod-podsoznaniya.com/sitemap.xml
 Disallow: /main.html
 Disallow: /main
 Disallow: /stories.html
